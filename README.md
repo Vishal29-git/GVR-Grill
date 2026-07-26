@@ -27,7 +27,7 @@ React.js | Vercel (Deployment)
 
 ## 📸 Project Demo
 
-![GVR Grill Works Demo](assets/gvr-grill-demo.gif)
+![GVR Grill Works Demo](assets/GVR.gif)
 
-> If your GIF is currently on your local device, create an `assets` folder in your project and place the file there with the same name, or update the file name in the markdown above.
+
 
