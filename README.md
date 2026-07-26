@@ -25,9 +25,7 @@ https://gvr-grill-8qop.vercel.app/
 
 React.js | Vercel (Deployment)
 
-## 📸 Project Demo
 
-![GVR Grill Works Demo](./assets/GVR.gif)
 
 
 
