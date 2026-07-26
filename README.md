@@ -27,7 +27,7 @@ React.js | Vercel (Deployment)
 
 ## 📸 Project Demo
 
-![GVR Grill Works Demo](./src/assets/GVR.gif)
+![GVR Grill Works Demo](./assets/GVR.gif)
 
 
 
